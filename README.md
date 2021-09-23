@@ -1,5 +1,5 @@
 # ludwig-python
-A sentence search engine that fetches examples from trusted news/media organisations. Great for improving writing & speaking better English.
+A sentence search engine that fetches examples from trusted news/media websites. Great for improving writing & speaking better English.
 
 # Installation
 Using [docker](https://www.docker.com/), 
