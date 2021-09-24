@@ -28,6 +28,6 @@ jobs:
     - name: Coverage Reports
       run: |
         pip install coverage
-        coverage run manage.py test
+        coverage run api/manage.py test
         coverage report 
     
